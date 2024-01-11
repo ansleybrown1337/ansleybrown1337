@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ansleybrown1337, website: [sites.google.com/view/ansleyjbrown](sites.google.com/view/ansleyjbrown)
+- 👋 Hi, I’m A.J. Brown, website: [sites.google.com/view/ansleyjbrown](sites.google.com/view/ansleyjbrown)
 - I’m interested in creating useful statistical tools for environmental data analysis
 - I’m currently learning Bayesian inference and machine learning techniques for irrigation and water quality purposes
 - I’m open to collaboration on anything related to irrigation, water quality, soil health, and statistical methods
